@@ -3,8 +3,8 @@
 
 <p>&nbsp;</p>
 
-- 🔭 I’m currently working on [pedics](https://pedics.io)
-- 🤝 I'm currently open for freelance work (remote)
+- 🤝 <strong>I'm currently open for freelance work (remote)</strong>
+- 🔭 Co-founded [pedics](https://pedics.io)
 
 
 <p>&nbsp;</p>
